@@ -340,8 +340,6 @@ For questions, suggestions, or bug reports, please open an issue on GitHub.
 
 <div align="center">
   
-  ### Built with 💜 by Mithun, Damodar, Kaifulla & Ranjith
-  
   ### For the Research Community
   
   **Accelerate your scientific discovery with Prism**
